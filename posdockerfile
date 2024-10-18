@@ -3,7 +3,7 @@ FROM maven:3.8.1-jdk-11
 
 WORKDIR /selenium
 
-RUN git clone https://github.com/Your_User_Name/pos-selenium-tests /selenium
+RUN git clone https://github.com/harishraj0822/pos-selenium-tests /selenium
 
 RUN git pull
 
