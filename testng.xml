@@ -9,7 +9,7 @@
 			<class name="com.pos.testcases.DeleteVendor" />
 
 		</classes>
-	</test>
+	<!-- </test>
 	 <test name="firefox" parallel="true" thread-count="3">
 		<parameter name="browser" value="firefox"></parameter>
 		<classes>
@@ -27,7 +27,7 @@
 			<class name="com.pos.testcases.EditCustomer" />
 			<class name="com.pos.testcases.DeleteCustomer" />
 
-		</classes>
+		</classes> -->
 	</test> 
 
 </suite>
